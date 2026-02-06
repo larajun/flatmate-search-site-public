@@ -76,11 +76,11 @@ html * {
 }
 
 #carousel button.left {
-  left: 2rem;
+  left: 10%;
 }
 
 #carousel button.right {
-  right: 2rem;
+  right: 10%;
 }
 
 @media screen and (max-width: 900px) {
